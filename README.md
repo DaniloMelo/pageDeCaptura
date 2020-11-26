@@ -1,5 +1,7 @@
-# Página de captura.
-![exemplo](imgs/cap.png)
+# Página de captura.</br>
+
+![exemplo](imgs/ex1.png)
+
 </br>
 
 ### Usabilidade
