@@ -1,6 +1,6 @@
 # Página de captura.</br>
 
-![exemplo](imgs\ex1.png)
+![exemplo](imgs/ex1.png)
 
 </br>
 
