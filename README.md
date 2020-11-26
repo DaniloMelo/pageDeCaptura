@@ -7,8 +7,8 @@
 </br>
 
 ### Tecnologias utilizadas. 
- HTML5
-CSS
+HTML5</br>
+CSS</br>
 Integração com a ferramenta Mailchimp para gerenciar a lista de contatos.
 https://mailchimp.com/
 </br></br></br>
