@@ -13,8 +13,8 @@ Integração com a ferramenta Mailchimp para gerenciar a lista de contatos.
 https://mailchimp.com/
 </br></br></br>
 
-_Projeto criado para fins educacionais._
-Curso: CURSO DESENVOLVIMENTO WEB FULL STACK
-Professor: Igor Oliveira. 
-https://programadorbr.com/
+_Projeto criado para fins educacionais._</br>
+Curso: CURSO DESENVOLVIMENTO WEB FULL STACK</br>
+Professor: Igor Oliveira. </br>
+https://programadorbr.com/</br>
 
